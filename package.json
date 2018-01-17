@@ -1,0 +1,26 @@
+{
+  "name": "message-conversation-notifier-app",
+  "description": "Message conversations notifier",
+  "author": "Edoardo Sabadelli",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "d2": "^28.3.0",
+    "material-ui": "^0.19.4",
+    "react": "<16.0.0",
+    "react-dom": "<16.0.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "manifest.webapp": {
+      "icons": {
+          "48": "./icon-48x48.jpg"
+      }
+  }
+}

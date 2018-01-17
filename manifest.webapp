@@ -1,0 +1,21 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*",
+      "devHref": "http://localhost:8080"
+    }
+  },
+  "appType": "APP",
+  "name": "message-conversation-notifier-app",
+  "version": "0.1.0",
+  "description": "Message conversations notifier",
+  "developer": {
+    "name": "Edoardo Sabadelli"
+  },
+  "icons": {
+    "48": "./icon-48x48.jpg"
+  },
+  "manifest_generated_at": "Fri Nov 10 2017 09:27:15 GMT+0300 (EAT)"
+}
